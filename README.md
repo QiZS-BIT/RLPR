@@ -6,7 +6,7 @@
 
 <!-- [[arxiv]](https://arxiv.org/pdf/2512.18279) -->
 
-<!-- ![image](https://github.com/QiZS-BIT/UniMPR/blob/main/assets/intro.png) -->
+![image]([https://github.com/QiZS-BIT/UniMPR/blob/main/assets/intro.png](https://github.com/QiZS-BIT/RLPR/blob/main/assets/intro.png))
 
 **RLPR is a robust radar-to-LiDAR cross-modal place recognition framework** By introducing a dual-stream architecture and a two-stage asymmetric alignment strategy, 
 it can effectively bridges the domain gap between radar and LiDAR. The framework is compatible with diverse radar types, including single-chip, scanning, and 
